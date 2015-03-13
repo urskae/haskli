@@ -1,2 +1,3 @@
 # haskli
-my haskell repo
+my  first haskell repo
+learning concepts and application
